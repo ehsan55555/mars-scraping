@@ -2,7 +2,7 @@
 
 # Mars Temperature Data Scraping and Analysis
 
-## This repository contains code for scraping and analyzing Mars  data from a couple specific website. The code uses web scraping techniques to extract data and then performs analysis and visualization on the collected data. Below, you'll find an overview of the repository's contents and instructions for using the provided code.
+## This repository contains code for scraping and analyzing Mars  data from a couple specific websites. The code uses web scraping techniques to extract data and then performs analysis and visualization on the collected data. Below, you'll find an overview of the repository's contents and instructions for using the provided code.
 
 
 # Repository Structure
